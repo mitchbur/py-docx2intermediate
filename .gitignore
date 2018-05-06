@@ -1,0 +1,8 @@
+**/work
+**/__pycache__
+/.spyproject
+.Rproj.user
+.Rhistory
+.project
+.pydevproject
+/.settings
